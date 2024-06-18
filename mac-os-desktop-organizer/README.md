@@ -2,13 +2,13 @@
 
 The `mac-os-desktop-organizer.py` script helps you organize files on your Mac OS desktop by automatically moving files into designated folders based on their file extensions. This script categorizes files into Images, Documents, Audio, Videos, and Scripts.
 
-#### Features
+## Features
 
 - Automatically organizes desktop files into predefined categories.
 - Handles duplicate file names by renaming them appropriately.
 - Supports a wide range of file extensions.
 
-#### Supported File Extensions
+### Supported File Extensions
 
 - **Images**: `.jpg`, `.png`, `.jpeg`, `.gif`, `.webp`, `.bmp`, `.tiff`, `.svg`
 - **Documents**: `.doc`, `.docx`, `.pdf`, `.xls`, `.xlsx`, `.ppt`, `.pptx`, `.txt`, `.rtf`, `.odt`
