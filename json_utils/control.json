@@ -1,11 +1,11 @@
 {
     "controlId": "1027",
     "controlDesc": "Vuln Scanning Compliance",
-    "evidenceResult": "SUCCESS",
+    "evidenceResult": "FAILED",
     "evidenceTest": {
-        "testPercent": 227.77777777777777,
-        "testScanned": 82,
-        "testScope": 36
+        "testPercent": 14.285714285714285,
+        "testScanned": 7,
+        "testScope": 49
     },
-    "details": "{\"testPercent\":227.77777777777777,\"testScanned\":82,\"testScope\":36}"
+    "details": "{\"testPercent\":14.285714285714285,\"testScanned\":7,\"testScope\":49}"
 }
