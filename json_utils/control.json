@@ -1,0 +1,11 @@
+{
+    "controlId": "1027",
+    "controlDesc": "Vuln Scanning Compliance",
+    "evidenceResult": "SUCCESS",
+    "evidenceTest": {
+        "testPercent": 227.77777777777777,
+        "testScanned": 82,
+        "testScope": 36
+    },
+    "details": "{\"testPercent\":227.77777777777777,\"testScanned\":82,\"testScope\":36}"
+}
