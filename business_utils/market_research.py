@@ -12,5 +12,5 @@ def scrape_product_prices(url):
         print(f"Product: {name}, Price: {price}")
 
 # Example usage
-url = int(input("Enter the product site:"))
+url = str(input("Enter the product site:"))
 scrape_product_prices(url)
