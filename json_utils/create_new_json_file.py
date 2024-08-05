@@ -36,3 +36,4 @@ if __name__ == "__main__":
     output_filename = 'updated_template.json'
 
     update_json_template(input_template, updates, output_filename)
+
